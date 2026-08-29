@@ -1,10 +1,10 @@
-# Honey Badger Haze Breeding Tracker
+# Honey Badger Haze Pheno Hunt Tracker
 
 Automated breeding-population dashboard for the **Honey Badger Haze** cross ((C99 x White Widow) x Ms. Universe #10, Dynasty Genetics lineage), ingesting live observations from the shared #breeding Discord channel and syncing to Google Drive.
 
-- Live dashboard: https://joeydouglas.github.io/honey-badger-haze-breeding/
+- Live dashboard: https://joeydouglas.github.io/honey-badger-haze-pheno-hunt/
 - Plant ID convention: `HBH01`, `HBH02`, ... (parsed from Discord text via `\bHBH[\s-]?(\d{1,2})\b`)
-- Source of truth: `tracker.json` in the companion `~/.hermes/breeding/honey-badger-haze/` working directory (not this repo -- this repo holds the generated static dashboard only).
+- Source of truth: `tracker.json` in the companion `~/.hermes/breeding/honey-badger-haze-pheno-hunt/` working directory (not this repo -- this repo holds the generated static dashboard only).
 
 ## Status
 
