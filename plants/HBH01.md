@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: '7'
+vigor: 7
 structure: null
 terpene_notes: null
 issues: null
@@ -42,3 +42,6 @@ at day 67 number one smells like ripe fruit. It has average size nugs above aver
 
 ### 2026-09-07T16:45:27.020260
 HBH01 canary test observation for Task 7.2 git-repo-split verification, vigor 7
+
+### 2026-09-07T18:37:14.909303
+HBH01 HBH01 NICK-924 routing-cutover canary: registry.json-driven routing test, vigor 7
