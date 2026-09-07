@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: null
+vigor: 7
 structure: null
 terpene_notes: null
 issues: null
@@ -39,3 +39,6 @@ Really nice peachy smell and even some flavor. very mild buzz. not terrible but 
 this one smells like peaches and is delightful as I’m trimming it
 
 at day 67 number one smells like ripe fruit. It has average size nugs above average stretch and is fading nicely. based off of the Turpin profile, I would give it above average appeal.
+
+### 2026-09-07T16:45:27.020260
+HBH01 canary test observation for Task 7.2 git-repo-split verification, vigor 7
