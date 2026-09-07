@@ -7,3 +7,24 @@ var/
 real-channel.json
 __pycache__/
 *.py[cod]
+
+# --- NICK-701: live project dir is now the data repo working copy ---
+# Only project.md and plants/<ID>.md belong here; everything below is
+# live working state that must never enter the data repo.
+
+# JSON-era tracker (pre-Task-2.1 persistence, kept for rollback)
+tracker.json
+
+# Local scratch / ingestion state
+cache/
+photo_staging/
+.save_tracker-staging-*
+
+# Legacy dashboard: a SEPARATE git checkout of
+# joeydouglas/honey-badger-haze-pheno-hunt-dashboard-legacy
+dashboard/
+
+# Per-project wrapper scripts (live in the working dir, not the data repo)
+generate_dashboard.py
+monitor_breeding_notes.py
+photo_handler.py
