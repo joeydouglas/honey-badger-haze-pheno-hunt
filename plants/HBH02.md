@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: null
+vigor: 8
 structure: null
 terpene_notes: null
 issues: null
@@ -39,3 +39,6 @@ not very Turpie or sticky and the high is definitely sativa leaner but pretty mi
 it was OK after I smoked a little bit more. I was somewhat pleased with it, but it’s not special.
 
 67 number two has a strong hazy terpene profile with significantly heavier buds the number one and the buds tend to Foxtail
+
+### 2026-09-07T16:50:29.600629
+HBH02 second rollback-rehearsal observation, vigor 8, strong terp profile
