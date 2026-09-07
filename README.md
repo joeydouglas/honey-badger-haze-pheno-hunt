@@ -1,11 +1,24 @@
-# Honey Badger Haze Pheno Hunt Tracker
+# Honey Badger Haze Pheno Hunt - Data Repo
 
-Automated breeding-population dashboard for the **Honey Badger Haze** cross ((C99 x White Widow) x Ms. Universe #10, Dynasty Genetics lineage), ingesting live observations from the shared #breeding Discord channel and syncing to Google Drive.
+Markdown record of truth for the **Honey Badger Haze** pheno hunt
+((C99 x White Widow) x Ms. Universe #10, Dynasty Genetics lineage),
+ingested from the shared #breeding Discord channel.
 
-- Live dashboard: https://joeydouglas.github.io/honey-badger-haze-pheno-hunt/
-- Plant ID convention: `HBH01`, `HBH02`, ... (parsed from Discord text via `\bHBH[\s-]?(\d{1,2})\b`)
-- Source of truth: `tracker.json` in the companion `~/.hermes/breeding/honey-badger-haze-pheno-hunt/` working directory (not this repo -- this repo holds the generated static dashboard only).
+## Contents
 
-## Status
+- `project.md` -- project-level frontmatter and notes
+- `plants/<ID>.md` -- one file per plant (`HBH01`, `HBH02`, ...)
 
-Newly scaffolded (2026-08-29) from the Lantz project template. No plant observations have been logged yet -- `tracker.json`'s `plants` array is empty and the dashboard will populate automatically as observations come in via the #breeding channel.
+Plant IDs are parsed from Discord text via `\bHBH[\s-]?(\d{1,2})\b`.
+
+`breeding-data-api` clones this repo and serves `project.md` and
+`plants/<ID>.md`; the frontend renders from that API.
+
+## Legacy dashboard
+
+The generated static dashboard that used to live here (`index.html`,
+`style.css`, `plants/*.html`) moved to
+[joeydouglas/honey-badger-haze-pheno-hunt-dashboard-legacy](https://github.com/joeydouglas/honey-badger-haze-pheno-hunt-dashboard-legacy).
+
+The `.github/` workflow stays here: it triggers the DigitalOcean redeploy
+so the API re-clones after new observations land.
