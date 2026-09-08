@@ -1,5 +1,5 @@
 ---
-plant_id: HBH05
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -29,6 +29,7 @@ original_notes: 'first smoke: mild tropical fruity funk hazy smell. would be gre
 
   mild Terps kind of perfume me kind of floral smaller buds about average stretch the first one to finish out of 24 fingers below average appeal'
 corrected_reading: null
+plant_id: HBH05
 ---
 
 ### Original Notes from Google Doc (tab: HBH 05☠️)

@@ -1,5 +1,5 @@
 ---
-plant_id: HBH01
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: 7
+vigor: '7'
 structure: null
 terpene_notes: null
 issues: null
@@ -31,6 +31,7 @@ original_notes: 'Really nice peachy smell and even some flavor. very mild buzz. 
 
   at day 67 number one smells like ripe fruit. It has average size nugs above average stretch and is fading nicely. based off of the Turpin profile, I would give it above average appeal.'
 corrected_reading: null
+plant_id: HBH01
 ---
 
 ### Original Notes from Google Doc (tab: HBH 01☠️)

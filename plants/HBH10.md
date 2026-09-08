@@ -1,5 +1,5 @@
 ---
-plant_id: HBH10
+id: null
 cross: Honey Badger Haze
 status: keeper
 sex: null
@@ -28,6 +28,7 @@ original_notes: 'these lil bugs look and smell good. smokes great too. not super
 
   this is probably the shittiest Vino so far it has high stretch. Very small buds that are airy and extremely low typing profile very under appealing. What’s up, man?'
 corrected_reading: null
+plant_id: HBH10
 ---
 
 ### Original Notes from Google Doc (tab: HBH 10💚)

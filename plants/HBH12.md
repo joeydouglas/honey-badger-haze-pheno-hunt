@@ -1,5 +1,5 @@
 ---
-plant_id: HBH12
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -28,6 +28,7 @@ original_notes: 'this one is good enough for honey badger haze, but not good eno
 
   this one is a 50-50 mix of haze and fruit turps with solid buds all the way down the stem and a really good leaf to Kay ratio. The leaves are still green and it hasn’t started to fade at all and it also hasn’t stretched very much. this is an appealing plant.'
 corrected_reading: null
+plant_id: HBH12
 ---
 
 ### Original Notes from Google Doc (tab: HBH 12☠️)

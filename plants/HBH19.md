@@ -1,5 +1,5 @@
 ---
-plant_id: HBH19
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -31,6 +31,7 @@ original_notes: 'really nice daytime buzz doesn’t last too long. It’s not su
 
   this is the tallest plant out of all of the honey, badger haze, and miss you Finno‘s. It has buds going all the way up the stem and has a nice typing profile that’s slightly muted and floral.'
 corrected_reading: null
+plant_id: HBH19
 ---
 
 ### Original Notes from Google Doc (tab: HBH 19❓)

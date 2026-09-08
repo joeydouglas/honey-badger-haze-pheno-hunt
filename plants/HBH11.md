@@ -1,5 +1,5 @@
 ---
-plant_id: HBH11
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -25,6 +25,7 @@ photo_count: 2
 photos_drive_url: https://drive.google.com/drive/folders/1nudjrmDHq9yH0zD4atxqDKKYe0EKhjMT
 original_notes: this plant produces large cola‘s that run up and down the stem. The her profile is definitely on the haze side, but it’s not super loud. Still looks like a potentially decent plan plant I have no idea why I’m saying that though maybe just because the buds are not popcorn
 corrected_reading: null
+plant_id: HBH11
 ---
 
 ### Original Notes from Google Doc (tab: HBH 11)

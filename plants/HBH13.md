@@ -1,5 +1,5 @@
 ---
-plant_id: HBH13
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -28,6 +28,7 @@ original_notes: '“debilitating” high as Noah calls it. i can’t pull myself
 
   devin has a haze Ford profile with an average bud structure in density lower leaf to Klix ratio and a slightly above average stretch. It looks like it’ll be pretty nice.'
 corrected_reading: null
+plant_id: HBH13
 ---
 
 ### Original Notes from Google Doc (tab: HBH 13☠️)

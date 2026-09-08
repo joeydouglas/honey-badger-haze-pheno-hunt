@@ -1,5 +1,5 @@
 ---
-plant_id: HBH18
+id: null
 cross: Honey Badger Haze
 status: active
 sex: null
@@ -25,6 +25,7 @@ photo_count: 2
 photos_drive_url: https://drive.google.com/drive/folders/1nudjrmDHq9yH0zD4atxqDKKYe0EKhjMT
 original_notes: turn profile is a louder pays with mild fruit. The buds are fatter. The stems are a little greener and there is some Foxtail on the buds, but it looks much better than number 17.
 corrected_reading: null
+plant_id: HBH18
 ---
 
 ### Original Notes from Google Doc (tab: HBH 18)

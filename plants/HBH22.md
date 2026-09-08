@@ -1,5 +1,5 @@
 ---
-plant_id: HBH22
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -25,6 +25,7 @@ photo_count: 2
 photos_drive_url: https://drive.google.com/drive/folders/1nudjrmDHq9yH0zD4atxqDKKYe0EKhjMT
 original_notes: "Nice little high. Not too strong but also not too sleepy. We’ll keep it for now.\n\nMild hazy/fruit terps. dry hit was solid but taste is non-existent, same as other strains. \n\nthis is a really pretty plant that seems to be fading nicely and has about a 50-50 haze fruit profile, which is highly appealing. The buds are on the thinner side, but it’s not too terrible. Actually scratch that. Some of the buds are fucking giant. This is the most appealing plant so far."
 corrected_reading: null
+plant_id: HBH22
 ---
 
 ### Original Notes from Google Doc (tab: HBH 22❓)

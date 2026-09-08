@@ -1,5 +1,5 @@
 ---
-plant_id: HBH14
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -33,6 +33,7 @@ original_notes: 'Really
 
   this Vino is small and squatty with large air buds, highly prone to fox tailing. The Turpin profile is a fruity haze with an emphasis on the haze. It looks drastically different than all of the other Finno‘s, which makes it appealing.'
 corrected_reading: null
+plant_id: HBH14
 ---
 
 ### Original Notes from Google Doc (tab: HBH 14❓)

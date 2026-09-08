@@ -1,5 +1,5 @@
 ---
-plant_id: HBH15
+id: null
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -25,6 +25,7 @@ photo_count: 2
 photos_drive_url: https://drive.google.com/drive/folders/1nudjrmDHq9yH0zD4atxqDKKYe0EKhjMT
 original_notes: this one is tall, lanky and hazy as fuck in the best sort of way the buds are on the skinnier side, but they wrap all the way up the stems slightly above average appeal
 corrected_reading: null
+plant_id: HBH15
 ---
 
 ### Original Notes from Google Doc (tab: HBH 15)
