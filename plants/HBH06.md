@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH06
 cross: Honey Badger Haze
 status: keeper
 sex: null
@@ -28,7 +28,7 @@ original_notes: 'This is a good one. Hybrid. Kinda sleepy but smelled good and r
 
   this is one of the larger plants with golf ball sized nugs. The tops are rounded, and starting to Foxtail. The Turpin profile is fruity/floral and it seems to be quite vigorous. The buds are very heavy and dense.'
 corrected_reading: null
-plant_id: HBH06
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 06💚)

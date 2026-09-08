@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH02
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -31,7 +31,7 @@ original_notes: 'not very Turpie or sticky and the high is definitely sativa lea
 
   67 number two has a strong hazy terpene profile with significantly heavier buds the number one and the buds tend to Foxtail'
 corrected_reading: null
-plant_id: HBH02
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 02☠️)

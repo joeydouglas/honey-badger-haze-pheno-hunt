@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH21
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -28,7 +28,7 @@ original_notes: 'sativa leaning buzz. no lethargy at all but not a really great 
 
   extremely muted tarps that I think are hazy, but I can’t quite be sure bud size is above average low leaf to ratio and fairly heavy buds. I just wish it had some more turfs.'
 corrected_reading: null
-plant_id: HBH21
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 21☠️)

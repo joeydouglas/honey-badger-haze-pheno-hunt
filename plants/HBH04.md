@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH04
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -25,7 +25,7 @@ photo_count: 2
 photos_drive_url: https://drive.google.com/drive/folders/1nudjrmDHq9yH0zD4atxqDKKYe0EKhjMT
 original_notes: The Terping profile on number four is Hayes first with mild peach or fruit back end. The buds are a little bit smaller than number two and the leaf to cola ratio is definitely on the high side.
 corrected_reading: null
-plant_id: HBH04
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 04)

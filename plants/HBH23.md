@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH23
 cross: Honey Badger Haze
 status: active
 sex: null
@@ -25,7 +25,7 @@ photo_count: 2
 photos_drive_url: https://drive.google.com/drive/folders/1nudjrmDHq9yH0zD4atxqDKKYe0EKhjMT
 original_notes: The stems on this one stayed really green. The dirt profile is predominantly hazy with well stacked buds. This plant does not seem to be fading at all has a lower stretch than most.
 corrected_reading: null
-plant_id: HBH23
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 23)

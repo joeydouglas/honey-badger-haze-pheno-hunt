@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH08
 cross: Honey Badger Haze
 status: active
 sex: null
@@ -25,7 +25,7 @@ photo_count: 2
 photos_drive_url: https://drive.google.com/drive/folders/1nudjrmDHq9yH0zD4atxqDKKYe0EKhjMT
 original_notes: this Finno has mild fruit, turps and small popcorn nugs with a relatively high leaf to KX ratio, making this one of the least appealing so far
 corrected_reading: null
-plant_id: HBH08
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 08)

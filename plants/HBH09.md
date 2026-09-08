@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH09
 cross: Honey Badger Haze
 status: culled
 sex: null
@@ -28,7 +28,7 @@ original_notes: 'This one smelled kinda muted honestly. Mild fruity funk. The hi
 
   Number nine has a medium stretch with compact nugs spiraling all the way up the branch the Terping profile is fruity and appealing, and it seems to be quite vigorous. The buds are all conical with minimal fox tailing.'
 corrected_reading: null
-plant_id: HBH09
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 09☠️)

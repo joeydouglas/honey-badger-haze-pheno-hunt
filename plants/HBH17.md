@@ -1,5 +1,5 @@
 ---
-id: null
+plant_id: HBH17
 cross: Honey Badger Haze
 status: keeper
 sex: null
@@ -28,7 +28,7 @@ original_notes: 'this ones fucking good, but it’s barely a sativa leaner. i’
 
   hazy fruit profile slightly above average stretch small thin buds not super appealing'
 corrected_reading: null
-plant_id: HBH17
+id: null
 ---
 
 ### Original Notes from Google Doc (tab: HBH 17💚)
