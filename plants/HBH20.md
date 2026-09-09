@@ -1,7 +1,7 @@
 ---
 plant_id: HBH20
 cross: Honey Badger Haze
-status: active
+status: culled
 sex: null
 germ_date: null
 veg_start: null
@@ -30,3 +30,6 @@ id: null
 
 ### Original Notes from Google Doc (tab: HBH 20)
 this is a larger plant with fairly heavy buds piling up the stems. The leaves are just now starting to fade slightly. There’s a small fruit for terpene profile, but it’s somewhat subdued. The buds are starting to form tiny FoxTails below average appeal.
+
+### 2026-09-09T14:34:34.609446
+HBH20 hbh20 is kinda meh. culled.
