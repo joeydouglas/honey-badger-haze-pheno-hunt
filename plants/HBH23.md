@@ -1,7 +1,7 @@
 ---
 plant_id: HBH23
 cross: Honey Badger Haze
-status: active
+status: keeper
 sex: null
 germ_date: null
 veg_start: null
