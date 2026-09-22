@@ -33,3 +33,6 @@ The stems on this one stayed really green. The dirt profile is predominantly haz
 
 ### 2026-09-21T18:35:17.938822
 HBH23 HBH23 is super nice. Certainly more sativa than the others. this is what i was expecting when i popped the seeds. im sore af from flushing bed2. even my god damn fingers hurt! just smoked a fatty of this pheno and i have zero desire to chill on the couch. it's not racey but it's certainly up, yet chill. chill, not blahhhhhhh.
+
+### 2026-09-22T07:29:28.259847
+HBH23 HBH23 had a very smooth smoke and a nice oil ring, something none of the other phenos had.
